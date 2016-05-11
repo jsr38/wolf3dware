@@ -1,0 +1,1 @@
+./st-flash write ./Wolf3dWare_STM32F429/Wolf3dWare.bin  0x08000000
